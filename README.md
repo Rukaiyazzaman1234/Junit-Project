@@ -1,6 +1,6 @@
 About My Project:
 
-I do automation using selenium, Junit tools with java programming language.
+I done here automation using selenium, Junit tools with java programming language.
 
 I automated three site. The first one is 
 
