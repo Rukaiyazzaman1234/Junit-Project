@@ -2,7 +2,9 @@
 
 I done here automation using selenium, Junit tools with java programming language.
 
-I automated three site. The first one is 
+I automated three site.
+
+# The first one is:
 
 https://www.digitalunite.com/practice-webform-learners
 
@@ -30,6 +32,8 @@ https://demo.wpeverest.com/user-registration/guest-registration-form/
 # Third One is:
 
 https://dsebd.org/latest_share_price_scroll_by_value.php
+
+# Automation:
 
 * Print all the cell values like the attached image
 
